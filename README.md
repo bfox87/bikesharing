@@ -1,6 +1,7 @@
 # Analysis of Bikesharing Data from New York City
 
 [link to story](https://public.tableau.com/views/NYCCitiBikeData_16629532598900/NYCBikesharingDesMoinesNext?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+![Story](https://github.com/bfox87/bikesharing/blob/main/Visualizations/Story.PNG)
 
 ## Purpose:
 This analysis was created to help convince prospective investors to invest in our new bikesharing business in Des Moines, Iowa. Our experiences with the Citi Bike bike sharing program in New York City has us convinced a similar business can work here in our town of Des Moines. A series of data visualizations have been created to detail key facts and usage characteristics of NYC's program. It is hoped the story created from these visuals convinces investors our business proposal is worth their investment.
