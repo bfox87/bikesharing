@@ -21,7 +21,7 @@ This analysis was created to help convince prospective investors to invest in ou
 
 
 ![Checkout_times_gender](https://github.com/bfox87/bikesharing/blob/main/Visualizations/Checkout_times_gender.PNG)
-- **Checkout Times by Gender**: Breaking out checkout times by gender above does not highlight any real difference between males and females. The vast majority of both take short trips. However, the trend of ride times is a little different for riders with with no gender listed (unknown). The majority of their rides are still short (30 minutes or less), but the dropoff isn't as pronounced. These unknown-gender riders are probably more likely to be short-term users and so they might be using rentals more for leisure or not be moving as quickly during their rides as an experienced subscriber might.
+- **Checkout Times by Gender**: Breaking out checkout times by gender above does not highlight any real difference between males and females. The vast majority of both take short trips. However, the trend of ride times is a little different for riders with with no gender listed (unknown). The majority of their rides are still short (30 minutes or less), but the dropoff isn't as pronounced. This might indicate more of a leisurly focus or pace for these riders, as well as being more predominately short-term customers. These types of users would likely be less willing to note their gender and probbaly less likely to move as quickly and purposefully as experienced subscribers might.
 
 
 ### When Trips Occur:
